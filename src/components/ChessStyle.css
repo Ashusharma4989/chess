@@ -1,15 +1,18 @@
 button{
     margin:-2px;
+    
 }
 .container{
-    margin: auto;
+    border: 10px solid black;
+    margin: 300px 400px 400px 500px;
     align-items: center;
     text-align: center;
-    width: 100%;
+    width: 16.7%;
     height: 100%;
 }
 .white{
     background-color: white;
+    display: none;
 }
 .black{
     background-color: black;
